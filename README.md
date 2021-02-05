@@ -43,6 +43,7 @@ Once Dragon Age Inquisition is installed, make sure you run it once. (Get to the
 **That’s almost it!** Launch Frosty Mod Manager from the 'Frosty Mod Manager' folder, then click 'Launch'. If you see any prompts asking for admin access, make sure to click 'Yes' or the mods won't work!
 From now on, launch the game through Frosty Mod Manager. <br>
 
-This list is designed around playing the 'Nightmare' difficulty. You can play it easier, but things will most likely not function as intended.
+**DISCLAIMER**
+This list is designed around playing the 'Nightmare' difficulty. You can play it easier, but things will most likely not function as intended. You are also free to add cosmetic mods as you wish at the end of your load order in Frosty Mod Manager, but there is no guarantee that the list will function correctly, and no support will be provided if you do so.
 
 A MASSIVE thanks to everyone who supports me on Patreon, Halgari and the Wabbajack team for creating this wonderful too, and everyone who plays and enjoys my lists!
